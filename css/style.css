@@ -24,7 +24,8 @@ body {
 }
 
 h1 {
-text-align: center-left;
+margin-left: auto;
+text-align: center;
 font-family: "Baskerville", Arial, sans-serif;
 font-weight: normal;
 font-style: normal;
