@@ -18,10 +18,7 @@ body {
 }
 
 /* Write all remaining styles here */
-@font-face {
-	font-family: "Baskerville";
-	src: url("/fonts/Baskerville.ttc") format("truetype")
-}
+
 
 h1 {
 margin-left: 20;
@@ -39,7 +36,6 @@ p {
 	text-align: center;
 }
 
-h1.wrapper
 
 
 div {
