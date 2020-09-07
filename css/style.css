@@ -39,6 +39,10 @@ p {
 	text-align: center;
 }
 
+body {
+	margin: 0 20 0 20
+}
+
 div {
 	columns: 50px;
 }
